@@ -120,3 +120,7 @@ function randomColor() {
 }
 
 colorizeSquares();
+console.log("Thank you for visiting my Web Page, it means a lot to me")
+console.log("Hope you enjoy the little game");
+console.log(`If you like what I've "created" I think you should like `);
+console.log("Web Developers Bootcamp, it's a nice course.")
